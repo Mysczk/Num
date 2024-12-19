@@ -1,3 +1,5 @@
+# original work -> https://github.com/marty-thane
+
 # Numerické metody
 
 ## Derivace
