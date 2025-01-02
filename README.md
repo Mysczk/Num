@@ -1,5 +1,5 @@
 # original work -> https://github.com/marty-thane
-
+# skripta -> https://mi21.vsb.cz/sites/mi21.vsb.cz/files/unit/numericke_metody_interaktivne.pdf
 # Numerické metody
 
 ## Derivace
