@@ -1,5 +1,6 @@
 # original work -> https://github.com/marty-thane
 # skripta -> https://mi21.vsb.cz/sites/mi21.vsb.cz/files/unit/numericke_metody_interaktivne.pdf
+# Škvor stránka -> https://physics.ujep.cz/~jskvor/NME/
 # Numerické metody
 
 ## Derivace
